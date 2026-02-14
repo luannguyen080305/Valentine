@@ -64,14 +64,3 @@ A simple and fun Valentine’s Day website built using **HTML, CSS, and JavaScri
 Contributions, suggestions, and improvements are welcome!  
 Feel free to fork the repository and submit a pull request.
 
----
-
-## 📄 License  
-
-This project is open-source and available under the MIT License.
-
----
-
-## 🙌 Author
-Roshan Kumar Sah<br>
-GitHub: https://github.com/itshroshan
