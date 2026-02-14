@@ -2,12 +2,7 @@
 
 A simple and fun Valentine’s Day website built using **HTML, CSS, and JavaScript** to express love in a creative and interactive way. This project is designed to make Valentine proposals more playful with animations and user interaction.
 
----
-##  🔗 Live Demo
-[![Live Demo](https://img.shields.io/badge/demo-live-brightgreen)](https://itshroshan.github.io/Valentines/) OR
-👉 https://itshroshan.github.io/Valentines/
 
----
 ## 🌸 Features
 
 - 💖 Attractive Valentine-themed UI  
